@@ -1,4 +1,4 @@
-Server-side Control: Issuring Ajax Commands
+Server-side Control: Issuing Ajax Commands
 =================================================
 
 For background, refer to the

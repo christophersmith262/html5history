@@ -7,7 +7,7 @@ use Drupal\Core\Ajax\CommandInterface;
 /**
  * An ajax command to send the browser history back one frame.
  */
-abstract class HistoryBackCommand implements CommandInterface {
+abstract class AbstractStateCommand implements CommandInterface {
 
   /**
    * An array of context data to be added with the url.
